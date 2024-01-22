@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/SmartSchool
+/SmartSchool.AppHost/obj
+/SmartSchool.ServiceDefaults/obj
+/SmartSchool.Web
+/.vs/ProjectEvaluation
